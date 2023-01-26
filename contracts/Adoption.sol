@@ -18,7 +18,5 @@ contract Adoption {
         return adopters;
     }
 
-    // end of contract
-
 
 }
